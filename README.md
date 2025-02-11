@@ -15,18 +15,18 @@ Dieses Projekt ist ein **Benutzer-Authentifizierungssystem in PHP**, das es erm�
 
 ## 🛠️ Installation
 
-### 1️⃣ **Projekt von GitHub klonen**
+### 1️ **Projekt von GitHub klonen**
 Falls das Projekt noch nicht lokal vorhanden ist, klone es mit folgendem Befehl:
 
 git clone https://github.com/Drossi78/auth_system.git
 
-### 2️⃣ XAMPP starten (Apache & MySQL)
+### 2️ XAMPP starten (Apache & MySQL)
 Falls du XAMPP verwendest:
 
 Öffne das XAMPP Control Panel
 Starte Apache und MySQL durch Klicken auf Start
 
-### 3️⃣ Datenbank erstellen
+### 3️ Datenbank erstellen
 
 Öffne phpMyAdmin unter http://localhost/phpmyadmin/
 
@@ -42,7 +42,7 @@ CREATE TABLE users (
 );
 
 
-### 4️⃣ Projekt in XAMPP-Verzeichnis kopieren
+### 4 Projekt in XAMPP-Verzeichnis kopieren
 
 
 ## Projekt starten
